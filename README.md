@@ -12,7 +12,7 @@ based on macro-economic features".
 
 1. Data Collection: extract macroeconomic statistics from Quandl and historical CPI values from Transparency International. 
 2. Feature Extraction: evaluating important indicators with high correlation to CPI and discovering new trends.
-3. Machine Learning Predicition: To see if RNNs can predict CPI with historical Macroeconomic indicator data.
+3. Machine Learning Prediction: To see if RNNs can predict CPI with historical Macroeconomic indicator data.
 
 ## Prerequisites
 
